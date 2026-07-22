@@ -11,7 +11,7 @@ This program runs in loop and does not end after every operator
 * **Subtraction** (`-`)
 * **Multiplication** (`*`)
 * **Division** (`/`)
-* **Modulo** (`%`)
+* **Modulus** (`%`)
 * **Power** (`^`)
   
 ---
@@ -30,5 +30,5 @@ This program runs in loop and does not end after every operator
 ### 4. Division
 <img src="output/4. Division.png" alt="Division Output" width="650"/>
 
-### 5. Modulo
-<img src="output/5. Modulo.png" alt="Modulo Output" width="650"/>
+### 5. Modulus
+<img src="output/5. Modulus.png" alt="Modulus Output" width="650"/>
