@@ -1,6 +1,6 @@
 # 04 Progress Bar
 
-A C program that simulates a dynamic command-line progress bar animation in the terminal.
+A C program that simulates a dynamic command-line progress bar animation in the terminal. Task Completion Rate for each task is different and randomly assigned.
 
 ---
 
