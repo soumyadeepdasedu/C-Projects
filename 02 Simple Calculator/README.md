@@ -13,7 +13,8 @@ This program runs in loop and does not end after every operator
 * **Division** (`/`)
 * **Modulus** (`%`)
 * **Power** (`^`)
-  
+* **Exit** (`X`)
+
 ---
 
 ## 📸 Output Previews
@@ -32,3 +33,9 @@ This program runs in loop and does not end after every operator
 
 ### 5. Modulus
 <img src="output/5. Modulus.png" alt="Modulus Output" width="650"/>
+
+### 6. Power
+<img src="output/5. Power.png" alt="Power Output" width="650"/>
+
+### 6. Exit
+<img src="output/5. Exit.png" alt="Exit Output" width="650"/>
